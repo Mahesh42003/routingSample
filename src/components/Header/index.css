@@ -1,0 +1,23 @@
+/* Write your CSS code here */
+.background {
+  display: flex;
+}
+
+.nav-menu {
+  list-style-type: none;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: #551e53;
+}
+.margin {
+  margin-left: 1000px;
+}
+.margin1 {
+  margin-left: 10px;
+}
+.size {
+  height: 50px;
+  margin-top: 10px;
+}
